@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 STUDENT SOFTWARE ENGINEER
 
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU4Y2xxY2k0OHp1aTZ4NmhsMzgwbGtzMWh3dGw4c3dta3E0dmc3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif " width="100" />
+# <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif?cid=ecf05e47bh2waahwn39c2m7kaadssl2cs9s8ej47fwn0u6u7&ep=v1_gifs_related&rid=giphy.gif&ct=g " width="100" />
 
 -------------------------
 
