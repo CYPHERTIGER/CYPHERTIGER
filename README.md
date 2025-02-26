@@ -2,9 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 STUDENT SOFTWARE ENGINEER
+
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU4Y2xxY2k0OHp1aTZ4NmhsMzgwbGtzMWh3dGw4c3dta3E0dmc3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif " width="100" />
+
 -------------------------
 
-\* Malware analysis \* cybersecurity \* Purple Team
+
+\* Malware analysis \* Cybersecurity \* Purple Team
+
 
 ### Skills
 
