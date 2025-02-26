@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 STUDENT SOFTWARE ENGINEER
 
 # <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif?cid=ecf05e47bh2waahwn39c2m7kaadssl2cs9s8ej47fwn0u6u7&ep=v1_gifs_related&rid=giphy.gif&ct=g " width="400" />
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFzaW8weW51aDFud2F3NnFtOXpoaGJ0OGpwczM3cXA0cXZ4cHVxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I0e4u216Qhww8eRTVq/giphy.gif" width="900" /> 
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFzaW8weW51aDFud2F3NnFtOXpoaGJ0OGpwczM3cXA0cXZ4cHVxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I0e4u216Qhww8eRTVq/giphy.gif" width="400" /> 
 -------------------------
 
 
